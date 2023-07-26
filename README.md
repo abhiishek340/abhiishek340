@@ -1,8 +1,10 @@
+ <a href="[https://www.example.com](https://media.tenor.com/dY4iLo6UK58AAAAM/kyrie-irving.gif)" target="_blank">
+       <img src="kyrie-irving.gif" alt="GIF Image">
+        
 <h1 align="center">Hi 👋, I'm Abhishek Yadav.</h1>
 <h3 align="center">I am a passionate computer science major driven to make an impact through technological innovation. Thrives on challenging real-world projects to expand knowledge and skills. Committed to turning ideas into reality and making a lasting contribution to technology. Open to internships and exciting projects. Let's connect!</h3>
 
- <a href="[https://www.example.com](https://media.tenor.com/dY4iLo6UK58AAAAM/kyrie-irving.gif)" target="_blank">
-        <img src="your_gif_image.gif" alt="GIF Image">
+
 
 - 🔭 I’m currently working on **NourishKids**
 
@@ -10,7 +12,7 @@
 
 - 📫 How to reach me **abhiishek340@gmail.com**
 
-- ⚡ Hobbies : **I love clicking photos!📸. Lets's go 1v1 in Basketball.🏀**
+- ⚡ Hobbies : **I love clicking photos!📸. I challenge you in 1v1 in Basketball.🏀**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
