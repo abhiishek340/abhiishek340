@@ -2,7 +2,7 @@
    <img src="kyrie-irving.gif" alt="GIF Image">
 </a>
 
-<h1 align="center">Hi 👋, I'm Abhishek Yadav</h1>
+<h1 align="center">Hi 👋 , I'm Abhishek Yadav</h1>
 <h3 align="center">
 I am a passionate computer science major driven to make an impact through technological innovation. Thrives on challenging real-world projects to expand knowledge and skills. Committed to turning ideas into reality and making a lasting contribution to technology. Open to internships and exciting projects. Let's connect!
 </h3> g
